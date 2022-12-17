@@ -1,4 +1,4 @@
-![HenryLogo](https://henry-11ty-resources.s3.sa-east-1.amazonaws.com/Assets/logo-henry-white-lg.png)
+![HenryLogo][def]
 
 # Introducción a la Programación
 
@@ -37,3 +37,6 @@ Los primeros lenguajes de programación se escribían en instrucciones que podí
 ```python
 
 ```
+
+
+[def]: https://henry-11ty-resources.s3.sa-east-1.amazonaws.com/Assets/logo-henry-white-lg.png
