@@ -22,7 +22,7 @@ Luego deberás realizar la clonación del [repositorio](https://github.com/soyHe
   <iframe src="https://player.vimeo.com/video/638636752" title="Instructivo de Primeros Pasos" allow="autoplay; fullscreen"></iframe>
 </div>
 
-> **Importante**: Github cambió el método de autenticación, ahora es por PAT (Personal Access Token), para crearlo pueden seguir este [link](https://docs.github.com/es/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token). Pueden elegir expiration infinita para hacerlo una sóla vez.
+> **Importante**: Github cambió el método de autenticación, ahora es por PAT (Personal Access Token), para crearlo pueden seguir este [link][def]. Pueden elegir expiration infinita para hacerlo una sóla vez.
 
 ## SLACK
 
@@ -409,3 +409,6 @@ Si tienes dudas sobre este tema, puedes consultarlas en el canal #python de Slac
     </td>
   </tr>
 </table>
+
+
+[def]: https://docs.github.com/es/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
